@@ -471,6 +471,7 @@ conventional_henry_90 = R_K / R_K90 * henry = H_90
 [magnetic_field] = [magnetic_flux] / [area]
 tesla = weber / meter ** 2 = T
 gamma = 1e-9 * tesla = γ
+atomic_unit_of_magnetic_field = hbar / (e * a_0 ** 2) = a_u_magnetic_field
 
 # Magnetomotive force
 [magnetomotive_force] = [current]
